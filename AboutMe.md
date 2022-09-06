@@ -1,1 +1,5 @@
 Indu Sri Kunuguntla
+
+My name is Indu Sri Kunuguntla. Iam from Kodad,Telangana. I have completed B.tech in the year 2019. And I worked as a Mainframe Developer in Capgemini Technology Solutions Pvt Ltd from past 2.7 years.
+
+![image](C:\Users\S555616\Downloads\IMG_3370.png)
