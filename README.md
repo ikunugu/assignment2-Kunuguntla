@@ -21,3 +21,20 @@ The distance between Delhi Airport and National Museum is 14 km. The best way to
     * Yamuna River
 
 [AboutMe.md](AboutMe.md)
+
+***
+***TABLES***
+
+|Hyderabad|Delhi|Mumbai|Banglore|
+|---|---|---|---|
+|Hyderabad have Charminar and Golconda|Delhi consists of Taj Mahal and it was built by Shah Jahan in the year 1632-1653|Mumabi is famous for Chhatrapati Shivaji Maharaj Terminus|Banglore is famous for its greenary and IT parks|
+
+
+
+|City Name|Location to visit|Time to spend|
+|---|---|---|
+|New York|Statue of Liberty|one hour|
+|Los Vegas|Casino|4 hours|
+|Texas|Beaches|2 hours|
+|Atlanta|Indian families|24 hours|
+
