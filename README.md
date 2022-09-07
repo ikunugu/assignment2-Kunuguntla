@@ -9,8 +9,8 @@
 
 **Indira Gandhi International Airport**
 
-1.The distance between Delhi Airport and National Museum is 14 km.
-2.The best way to travel from airport to Museum is by Taxi which takes 20 mins.
+1. The distance between Delhi Airport and National Museum is 14 km.
+2. The best way to travel from airport to Museum is by Taxi which takes 20 mins.
 
 # Surrounded locations near to museum
   * India Gate
