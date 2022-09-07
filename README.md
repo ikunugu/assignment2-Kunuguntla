@@ -38,3 +38,13 @@ The distance between Delhi Airport and National Museum is 14 km. The best way to
 |Texas|Beaches|2 hours|
 |Atlanta|Indian families|24 hours|
 
+
+***
+**Pithy Quotes**
+>Not how long, but how well you have lived is the main thing - ***Seneca***
+>
+>Life is what happens when you're busy making other plans - ***John Lennon***
+>
+>Spread love everywhere you go. Let no one ever come to you with out leaving happier - ***Mother Teresa***
+
+***
