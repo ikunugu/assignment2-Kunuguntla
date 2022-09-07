@@ -48,3 +48,22 @@ The distance between Delhi Airport and National Museum is 14 km. The best way to
 >Spread love everywhere you go. Let no one ever come to you with out leaving happier - ***Mother Teresa***
 
 ***
+##Code Fencing
+>Jquery Metadata
+<https://stackoverflow.com/questions/182630/jquery-tips-and-tricks>
+
+```
+body {
+  <input 
+  name="email" 
+  class="validation {validate: email, minLength: 2, maxLength: 50}" />
+
+<script>
+    jQuery('*[class=validation]').each(function () {
+        var metadata = $(this).metadata();
+        // etc.
+    });
+</script>
+}
+```
+<https://stackoverflow.com/a/504776>
